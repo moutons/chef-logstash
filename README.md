@@ -177,7 +177,7 @@ Logstash will listen for syslog messages on tcp/5140
 - Author:    Richard Clamp (@richardc)
 - Author:    Juanje Ojeda (@juanje)
 - Author:    @benattar
-- Author:    Paul Czarkowski (@pczarkowski)
+- Author:    Paul Czarkowski ([@pczarkowski](https://twitter.com/pczarkowski))
 - Copyright: 2012, John E. Vincent
 - Copyright: 2012, Bryan W. Berry
 - Copyright: 2012, Richard Clamp
